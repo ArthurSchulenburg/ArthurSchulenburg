@@ -13,5 +13,5 @@ Python | Fortran 90 | Linux | SQL | LaTeX
 
 📫 Contact
 
-- arthur_314159265@hotmail.com
-- [linkedin.com/in/arthur-s-321b73218/](https://www.linkedin.com/in/arthur-s-321b73218/)
+- [Email](arthur_314159265@hotmail.com)
+- [linkedin](https://www.linkedin.com/in/arthur-s-321b73218/)
