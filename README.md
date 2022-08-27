@@ -6,7 +6,7 @@ I'm a Bachelor's in Physics (2020) and Master in Applied Physics from the Federa
 
 I have experience in complex systems, self-organized criticality processes, mathematical and computational modeling of epidemics, including data analysis, visualization and treatment.
 
-🛠️ Tools
+🛠️ Tools (until now)
 
 Python | Fortran 90 | Linux | SQL | LaTeX
 
