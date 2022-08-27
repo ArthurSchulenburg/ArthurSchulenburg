@@ -13,7 +13,5 @@ Python | Fortran 90 | Linux | SQL | LaTeX
 
 📫 Contact
 
-<div>
-<a href = "mailto:arthur_314159265@hotmail.com "><img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)" target="_blank"></a>
-<a href="[linkedin.com/in/arthur-s-321b73218](https://www.linkedin.com/in/arthur-s-321b73218/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+- arthur_314159265@hotmail.com
+- linkedin.com/in/arthur-s-321b73218
