@@ -8,7 +8,7 @@ I have experience in complex systems, self-organized criticality processes, math
 
 🛠️ Tools (until now)
 
-Python | Fortran 90 | Linux | SQL | LaTeX
+Python | Fortran 90 | Linux | SQL | LaTeX | Microsoft Power BI
 
 
 📫 Contact
